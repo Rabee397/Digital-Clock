@@ -1,2 +1,2 @@
 # Digital-Clock
-JavaScript Project
+Simple JavaScript Project which tell us the current time (hours , minutes , seconds)
