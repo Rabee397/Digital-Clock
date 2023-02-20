@@ -1,0 +1,17 @@
+/* general style */
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    text-align: center;
+    padding-top:20px;
+}
+.clock{
+    background-color: rgb(96, 202, 221);
+    color:white;
+    font-size:1.4rem;
+    width:120px;
+    margin:0 auto
+}
